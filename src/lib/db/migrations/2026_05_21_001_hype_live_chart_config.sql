@@ -22,7 +22,7 @@ VALUES (
   'hype/usd',
   'HYPE',
   'HYPE/USD',
-  '#97FCE4',
+  '#00C2A8',
   '/images/live-assets/hype.svg',
   TRUE,
   FALSE,
